@@ -1,0 +1,29 @@
+body{
+  background: rgba(50, 56, 85, 0.363);
+}
+
+#entrada{
+  background: white;
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.514);
+}
+
+#entrada p{
+  padding-left: 10px;
+  font-family: arial;
+}
+
+h1{
+  font-family: arial;
+  font-size: 20pt;
+  background: #d3d3d3;
+  width: 250px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+}
+
